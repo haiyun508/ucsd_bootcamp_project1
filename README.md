@@ -1,4 +1,4 @@
-# ucsd_bootcamp_project1
+# Happiness Analysis
 ## Contributors: Tina Zhou, Calvin Luu, Steve Meyer, Jeffrey Nguyen
 
 ### Presentation - 3/27/2021
